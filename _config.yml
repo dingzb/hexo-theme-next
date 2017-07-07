@@ -343,7 +343,7 @@ changyan:
 ##  type: button
 
 # Share
-#jiathis:
+jiathis: true
 # Warning: JiaThis does not support https.
 #add_this_id:
 
@@ -479,7 +479,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
@@ -630,6 +630,6 @@ images: images
 # Theme version
 version: 5.1.1
 
-reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
-wechatpay: /uploads/wechat-reward-image.jpg
-alipay: /uploads/alipay-reward-image.jpg
+# reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+# wechatpay: /uploads/wechat-reward-image.jpg
+# alipay: /uploads/alipay-reward-image.jpg
